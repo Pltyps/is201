@@ -29,7 +29,6 @@ h2{
     font-size: 20px;
     position: fixed;
     margin: auto;
-    text-align: center !important;
 }
 
 h3{
@@ -37,8 +36,7 @@ h3{
     font-size: 16px;
     position: fixed;
     margin: auto;
-    margin-top: 6px !important;
-    text-align: center !important;
+    margin-top: 15px !important;
 }
 
 body{
