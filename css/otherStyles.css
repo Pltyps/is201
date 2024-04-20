@@ -10,7 +10,7 @@ root{
     background-color: rgb(42, 117, 187);
     color: rgb(255, 203, 5);
     width: auto;
-    font-size: 23px;
+    font-size: 32px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     border: solid 3px rgb(60, 90, 166);
 }
@@ -19,7 +19,7 @@ root{
     background-color: rgb(255, 203, 5);
     color: rgb(42, 117, 187);
     width: auto;
-    font-size: 37px;
+    font-size: 40px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     border: solid 3px rgb(60, 90, 166);
 }
@@ -76,6 +76,28 @@ img{
     margin-top: 25px;
     margin-bottom: 25px;
 }
+
+
+.button{
+    background-color: black;
+    color: white;
+    width: auto;
+    font-size: 22px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border: solid 3px white;
+    margin-bottom: 100px;
+}
+
+.button:hover{
+    background-color: white;
+    color: black;
+    width: auto;
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border: solid 3px black;
+}
+
+
 
 .footer{
     width: 100%;
