@@ -30,6 +30,7 @@ h2{
     position: fixed;
     margin: auto;
     margin-bottom: 7px;
+    text-align: center;
 }
 
 h3{
@@ -38,6 +39,7 @@ h3{
     position: fixed;
     margin: auto;
     margin-bottom: 7px;
+    text-align: center;
 }
 
 body{
