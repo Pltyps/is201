@@ -29,8 +29,7 @@ h2{
     font-size: 20px;
     position: fixed;
     margin: auto;
-    margin-top: 7px;
-    text-align: center;
+    text-align: center !important;
 }
 
 h3{
@@ -38,7 +37,7 @@ h3{
     font-size: 16px;
     position: fixed;
     margin: auto;
-    margin-top: 7px;
+    margin-top: -15px !important;
     text-align: center;
 }
 
